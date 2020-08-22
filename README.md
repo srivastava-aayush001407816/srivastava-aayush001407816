@@ -5,10 +5,9 @@
 
 ![Imgur](https://i.imgur.com/Qzc8bE0.png?1)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-### <img src="https://media.giphy.com/media/mCW13lWicQgK47d7vt/giphy.gif" width="50"> A little more about me...
-
-<p><br><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript
@@ -21,14 +20,14 @@ const aayushSrivastava = {
   Volunteer: {
                         MAD: "Make a Difference",
                         IEEE CS: "Contributing to CS community",
-                        Spartans: "Editor of VIT magzine"
+                        Spartans: "Editor of College magzine"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on JS and Angular"
 }
 ```
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> You can reach me at...
+### <img src="https://media.giphy.com/media/mCW13lWicQgK47d7vt/giphy.gif" width="50"> You can reach me at...
 
 [![Linkedin: aayushSrivastava](https://img.shields.io/badge/-Aayush_Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aayush-srivastava2606/)](https://www.linkedin.com/in/aayush-srivastava2606/)
 [![GitHub Aayush](https://img.shields.io/github/followers/srivastava-aayush001407816?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
