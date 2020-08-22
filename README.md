@@ -8,11 +8,10 @@
 <p><br><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> You can reach me at...
 
-- 👨🏽‍🎓 I create trivial websites with a goal to have a profound impact on people.
-- 🌱 I’m currently learning Vue.js, Unity.
-- 👯 I’m looking to collaborate on any projects with you !! yes YOU 🙌🏽
-- 📫 You can reach me at srivastava.aay@northeastern.edu
-- ⚡ Fun fact: I can speak 4 languages 📞
+[![Linkedin: aayushSrivastava](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aayush-srivastava2606/)](https://www.linkedin.com/in/aayush-srivastava2606/)
+[![GitHub Aayush](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
+
+
 
