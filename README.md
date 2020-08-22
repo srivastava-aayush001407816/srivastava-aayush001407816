@@ -23,6 +23,7 @@ const aayushSrivastava = {
                         Spartans: "Editor of College magzine"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on JS and Angular"
+ email: "srivastava.aay@northeastern.edu"
 }
 ```
 
