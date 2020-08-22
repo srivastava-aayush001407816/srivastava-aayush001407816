@@ -5,7 +5,7 @@
 
 ![Imgur](https://i.imgur.com/Qzc8bE0.png?1)
 
-<p><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><br><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
