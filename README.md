@@ -13,5 +13,7 @@
 [![Linkedin: aayushSrivastava](https://img.shields.io/badge/-Aayush_Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aayush-srivastava2606/)](https://www.linkedin.com/in/aayush-srivastava2606/)
 [![GitHub Aayush](https://img.shields.io/github/followers/srivastava-aayush001407816?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
 
+<br>
+### <img src="https://media.giphy.com/media/XfhzPjLDRbGXwAcuiP/giphy.gif" width="50"> A little more about me...
 
 
