@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> You can reach me at...
 
 [![Linkedin: aayushSrivastava](https://img.shields.io/badge/-Aayush_Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aayush-srivastava2606/)](https://www.linkedin.com/in/aayush-srivastava2606/)
-[![GitHub Aayush](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
+[![GitHub Aayush](https://img.shields.io/github/followers/srivastava-aayush001407816?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
 
 
 
