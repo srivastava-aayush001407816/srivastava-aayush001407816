@@ -14,6 +14,6 @@
 [![GitHub Aayush](https://img.shields.io/github/followers/srivastava-aayush001407816?label=follow&style=social)](https://github.com/srivastava-aayush001407816)
 
 
-### <img src="https://media.giphy.com/media/XfhzPjLDRbGXwAcuiP/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/mCW13lWicQgK47d7vt/giphy.gif" width="50"> A little more about me...
 
 
