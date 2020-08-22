@@ -2,7 +2,7 @@
 
 <!--
 **srivastava-aayush001407816/srivastava-aayush001407816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-![ME](me.png)
+[Me](https://i.imgur.com/ST6360Y.png)
 
 - 👨🏽‍🎓 I create trivial websites with a goal to have a profound impact on people.
 - 🌱 I’m currently learning Vue.js, Unity.
