@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<p><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduate student at <a href="https://www.northeastern.edu">Northeastern University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.verizonwireless.com">Verizon Wireless</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Senior Systems Engineer at <a href="https://www.amex.com">American Express</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript
